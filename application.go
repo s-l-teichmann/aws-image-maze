@@ -88,7 +88,7 @@ const htmlForm = `
 
 const htmlFooter = `
 <div>&copy; 2013, 2018 by Sascha L. Teichmann
-(<a href="https://github.com/s-l-teichmann/aws-image-maze">Source</a>)</div>
+(<a href="https://github.com/s-l-teichmann/aws-image-maze">Sources</a>)</div>
 </body>
 </html>`
 
